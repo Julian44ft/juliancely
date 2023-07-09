@@ -1,11 +1,48 @@
 
 
 
-body {
+.primercuerpo {
 
   background-image: linear-gradient(to right, #FF0000 ,#FFFC19);  
 }
 
+.segundocuerpo {
+
+  background-image: linear-gradient(to right, green ,#FFFC19);  
+}
+
+.tercercuerpo {
+
+  background-image: linear-gradient(to right, darkred , pink);  
+}
+.cuartocuerpo {
+
+  background-image: linear-gradient(to right, darkblue , orange);  
+}
+
+.quintocuerpo {
+
+  background-image: linear-gradient(to right, pink , purple);  
+}
+
+.sextocuerpo {
+
+  background-image: linear-gradient(to right, red , purple);  
+}
+
+.septimocuerpo {
+
+  background-image: linear-gradient(to right, yellow , blue);  
+}
+
+.octavocuerpo {
+
+  background-image: linear-gradient(to right, pink , blue);  
+}
+.novenocuerpo {
+
+  background-image: linear-gradient(to right, purple , green);  
+}
 .titulo{
 text-align: center;
   color: darkblue;
@@ -18,6 +55,8 @@ text-align: center;
     border-color: darkblue;
 }
 
+
+
 .escrito{
     font-family: 'Hanalei-Fill';
     width: 80%;
@@ -26,6 +65,87 @@ text-align: center;
     font-size: 18px;
     
 }
+
+.escrito2{
+    font-family: 'Hanalei-Fill';
+    width: 80%;
+    color: darkblue;
+    display: block;
+    font-size: 20px;
+    column-count: 2;
+    
+}
+
+.escrito3{
+  font-family: 'Hanalei-Fill';
+  width: 80%;
+  color: purple;
+  display: block;
+  font-size: 28px;
+  column-count: 3;
+  
+}
+ 
+.escrito4{
+  font-family: 'Hanalei-Fill';
+  width: 80%;
+  color: yellow;
+  display: block;
+  font-size: 19px;
+  column-count: 2;
+  
+}
+
+.escrito5{
+  font-family: 'Hanalei-Fill';
+  width: 80%;
+  color: grey;
+  display: block;
+  font-size: 28px;
+  column-count: 3;
+  
+}
+
+
+.escrito6{
+  font-family: 'Hanalei-Fill';
+  width: 80%;
+  color: green;
+  display: block;
+  font-size: 28px;
+  column-count: 2;
+  
+}
+.escrito6{
+  font-family: 'Hanalei-Fill';
+  width: 80%;
+  color: green;
+  display: block;
+  font-size: 28px;
+  column-count: 3;
+  
+}
+.escrito6{
+  font-family: 'Hanalei-Fill';
+  width: 80%;
+  color: green;
+  display: block;
+  font-size: 28px;
+  column-count: 2;
+  
+}
+.escrito6{
+  font-family: 'Hanalei-Fill';
+  width: 80%;
+  color: green;
+  display: block;
+  font-size: 28px;
+  column-count: 3;
+  
+}
+
+
+
 .empanadaB{
     
     display: flex;
@@ -42,6 +162,140 @@ text-align: center;
     margin-left: 20px;
     
 }
+ .empanadac{
+    
+  display: flex;
+  text-decoration: none;
+  color: white;
+  background: darkred;
+  height: 40px ;
+  width: 65px;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 18px 25px;
+  margin-left: 15px;
+  
+}
+
+
+.empanadaz{
+   
+ display: flex;
+ text-decoration: none;
+ color: white;
+ background: orangered;
+ height: 50px;
+ justify-content: center;
+ align-items: center;
+ margin: 5px;
+ border-radius: 10px;
+ padding: 18px 25px;
+ margin-left: 25px;
+ font-size: 22px;
+ 
+}
+.empanadax{
+   
+  display: flex;
+  text-decoration: none;
+  color: white;
+  background: darkblue;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 18px 25px;
+  margin-left: 10px;
+  font-size: 14px;
+  
+ }
+
+ .empanadap{
+   
+  display: flex;
+  text-decoration: none;
+  color: white;
+  background: pink;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 18px 25px;
+  margin-left: 35px;
+  font-size: 19px;
+  
+ }
+
+ .empanadah{
+   
+  display: flex;
+  text-decoration: none;
+  color: white;
+  background: orangered;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 18px 25px;
+  margin-left: 35px;
+  font-size: 28px;
+  
+ }
+
+ .empanadam{
+   
+  display: flex;
+  text-decoration: none;
+  color: white;
+  background: yellow;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 18px 25px;
+  margin-left: 35px;
+  font-size: 28px;
+  
+ }
+
+ .empanadae{
+   
+  display: flex;
+  text-decoration: none;
+  color: black;
+  background: orangered;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 18px 25px;
+  margin-left: 35px;
+  font-size: 28px;
+  
+ }
+ .empanadaj{
+   
+  display: flex;
+  text-decoration: none;
+  color: white;
+  background: grey;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 18px 25px;
+  margin-left: 35px;
+  font-size: 28px;
+  
+ }
 
 #empanadas{
     list-style: none;
@@ -49,45 +303,132 @@ text-align: center;
     grid-template-columns: repeat(4, 1fr);
     
 }
+
+
+
+#empanadadepollo{
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    
+    
+}
+.pollito{
+  border-radius: 22%;
+  border: solid 6px;
+  border-color: yellow;
+}
+.carne{
+  border-radius: 18%;
+  border: solid 10px;
+  border-color: yellow;
+}
+
+.mixta{
+  border-radius: 12%;
+  border: solid 12px;
+  border-color: brown;
+}
+
+.pescado{
+  border-radius: 28%;
+  border: solid 19px;
+  border-color: grey;
+}
+.champiñon{
+  border-radius: 12%;
+  border: solid 27px;
+  border-color: grey;
+}
+
+.champiñon{
+  border-radius: 12%;
+  border: solid 27px;
+  border-color: grey;
+}
+
+.salchicha{
+  border-radius: 25%;
+  border: solid 27px;
+  border-color: black;
+}
+.atun{
+  border-radius: 19%;
+  border: solid 12px;
+  border-color: black;
+}
 .titulo2{
     text-align: center;
-      color: darkblue;
-      font-size: 30px;
+      color: darkgreen;
+      font-size: 25px;
     }
 
 .titulo3{
     text-align: center;
-      color: darkblue;
+      color: red;
       font-size: 30px;
-    }
 
-.titulo3{
-    text-align: center;
-      color: darkblue;
-      font-size: 30px;
     }
 
 .titulo4{
     text-align: center;
-      color: darkblue;
-      font-size: 30px;
+      color: Brown;
+      font-size: 18px;
     }
 
 .titulo5{
     text-align: center;
-      color: darkblue;
-      font-size: 30px;
+      color: black;
+      font-size: 45px;
     }
 
 .titulo6{
     text-align: center;
-      color: darkblue;
+      color: black;
       font-size: 30px;
     }
+
+    .titulo7{
+        text-align: center;
+          color: blue;
+          font-size: 30px;
+        }
 
 .titulo8{
     text-align: center;
-      color: darkblue;
+      color: black;
       font-size: 30px;
     }
 
+    
+      .ingredientes, th, td {
+        border:4px solid blue;
+        background: green;
+      }
+
+      .ingredientes2, th, td {
+        border:4px solid black;
+        background: yellow;
+        color: red;
+        
+      }
+      .ingredientes3, th, td {
+        border:4px solid green;
+        background: pink;
+        color: red;
+        
+      }   
+
+      .ingredientes3, th, td {
+        border:4px solid purple;
+        background: green;
+        color: blue;
+        
+      }
+
+      .ingredientes4, th, td {
+        border:4px solid blue;
+        background: greenyellow;
+        color: white;
+        
+      }
